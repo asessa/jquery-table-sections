@@ -1,0 +1,30 @@
+{
+	"name": "jquery-table-sections",
+	"keywords": [
+		"jquery",
+		"bootstrap",
+		"table",
+		"tables",
+		"sections"
+	],
+	"description": "Organize table content into sections using JQuery and Bootstrap",
+	"version": "0.1.0",
+	"author": "Andrea Sessa <andrea.sessa@gmail.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/asessa/jquery-table-sections.git"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"grunt": "0.4.x",
+		"grunt-contrib-cssmin":         "*",
+		"grunt-contrib-qunit":         "*",
+		"grunt-contrib-jshint":         "*",
+		"grunt-contrib-uglify":         "*",
+		"matchdep":                     "*"
+	},
+	"engines": {
+		"node": "*"
+	}
+}

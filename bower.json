@@ -1,0 +1,26 @@
+{
+	"name": "jquery-table-sections",
+	"version": "0.1.0",
+	"keywords": ["jquery", "bootstrap", "table", "tables", "sections"],
+	"main": [
+		"dist/jquery-table-sections.min.css",
+		"dist/jquery-table-sections.min.js"
+	],
+	"ignore": [
+		"Makefile",
+		"Gruntfile.js",
+		"examples",
+		"node_modules",
+		"bower_components",
+		"docs",
+		"src",
+		"test",
+		".travis.yml",
+		"bower.json",
+		"package.json"
+	],
+	"dependencies": {
+		"jquery": ">=1.7.0",
+		"bootstrap": ">=3.2.0"
+	}
+}
